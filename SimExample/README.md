@@ -1,2 +1,2 @@
 
-The folder that contains the code for simulation studies. 
+This folder contains the code for simulation studies. 
